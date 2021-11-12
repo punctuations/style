@@ -28,9 +28,6 @@ coverage
 
 node_modules/
 
-# TypeScript v1 declaration files
-typings/
-
 # Optional npm cache directory
 .npm
 
@@ -49,10 +46,8 @@ typings/
 # dotenv environment variables file
 .env
 
-# next.js build output
-.next
-
-.vercel
+# build directory
+dist
 
 # editors
 .idea
