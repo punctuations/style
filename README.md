@@ -1,7 +1,6 @@
 ## Canary UI Style
 <p>
   <img src="https://circleci.com/gh/punctuations/style/tree/master.svg?style=svg">
-    <span>&nbsp</span>
   <img src="https://img.shields.io/badge/minzipped-4kb-green.svg?style=popout&colorB=01b301">
 </p>
 
